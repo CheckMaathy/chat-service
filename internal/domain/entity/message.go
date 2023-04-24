@@ -3,7 +3,7 @@ package entity
 import (
 	"errors"
 	"github.com/google/uuid"
-	"github.com/pkoukk/tiktoken-go"
+	"github.com/j178/tiktoken-go"
 	"time"
 )
 

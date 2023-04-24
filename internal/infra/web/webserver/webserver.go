@@ -1,9 +1,9 @@
 package webserver
 
 import (
-	"net/http"
-
+	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
+	"net/http"
 )
 
 type WebServer struct {
